@@ -1,0 +1,1 @@
+This repository contains a COBOL program that demonstrates a common numeric overflow error. The program attempts to store a value that exceeds the capacity of a declared variable, leading to unexpected results. The solution provided addresses this issue by incorporating appropriate error handling and data validation.
